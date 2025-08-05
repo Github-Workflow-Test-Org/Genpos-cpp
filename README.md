@@ -2,7 +2,7 @@
 source code for the GenPOS point of sale application owned by Georgia Southern University and now open source.
 
 This is the updated and extended version of the original NeighborhoodPOS point of sale software that ran on
-the NCR 2170 point of sale terminal and was then upgraded for the NCR 7448 point of sale terminal.
+the NCR 2170 point of sale terminal and was then upgraded for the NCR 7448 point of sale terminal.sdfd
 
 ## Recent history of NHPOS and GenPOS
 
